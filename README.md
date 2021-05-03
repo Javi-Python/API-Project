@@ -5,7 +5,7 @@
 
 This api collects information from r/wallstreetbets, a reddit subreddit deidcated to talking about stocks and finance, and allows users to search by tickers mentioned in post title, search by most mentioned tickers, by sentiment analysis over a certain amount and by sentiment analysis below a certain amount. I hope it is good way to keep up to date with what people are saying with particular stocks.
 
-My hope is to update monthly and tack progress of the discussion of different stocks.
+My hope is to update monthly and track progress of the discussion of different stocks.
 
 
 # @ GET Endpoints:

@@ -1,4 +1,6 @@
-# API-Project
+# API-WSB-Project
+
+<img width="324" alt="Screen Shot 2021-05-03 at 6 17 31 PM" src="https://user-images.githubusercontent.com/1562979/116909245-d914d080-ac3b-11eb-8dce-7e5c17c8458e.png">
 
 
 This api collects information from r/wallstreetbets, a reddit subreddit deidcated to talking about stocks and finance, and allows users to search by tickers mentioned in post title, search by most mentioned tickers, by sentiment analysis over a certain amount and by sentiment analysis below a certain amount. I hope it is good way to keep up to date with what people are saying with particular stocks.
